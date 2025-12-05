@@ -6,10 +6,12 @@ Algoritmo "semnome"
 // Data atual  : 04/12/2025
 Var
 // Seção de Declarações das variáveis 
-
+nome: caractere
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-
+  escreva("nome:")
+  leia(nome)
+  escreva("seu nome ", nome)
 
 Fimalgoritmo
